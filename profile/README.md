@@ -65,7 +65,7 @@ Pena is a Discord bot that allows users to create, share, and manage sound panel
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/pena-bot.git
+https://github.com/PenaBOT/Pena.git
 cd pena-bot
 ```
 
